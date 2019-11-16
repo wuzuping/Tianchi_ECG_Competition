@@ -1,0 +1,4 @@
+pandas==0.24.2
+PyWavelets==1.0.3
+biosppy==0.6.1
+pyentrp==0.5.0
